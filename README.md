@@ -1,2 +1,2 @@
-# garudagamingroleplay
-Script Roleplay Base , Garuda Gaming Roleplay , Based With Valhalla Gaming Roleplay  Development by Garuda Gaming Roleplay
+# GarudaGaming Roleplay
+a roleplay gamemode based ValhallaGaming Roleplay,  Development by Garuda Team from Indonesia.
